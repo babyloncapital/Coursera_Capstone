@@ -1,0 +1,1 @@
+In oreder to answer this question, I will use the data pertaining the neighborhoods in the city of Toronto from Wikipedia, as well as a .csv file containing the geo-spatial coordinates of each neighborhood. This is necessary in order to communicate with the FourSquare API and get the information on venues location.
